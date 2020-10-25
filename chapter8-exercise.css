@@ -42,7 +42,7 @@ p:nth-child(odd) {
 .content:nth-child(6),
 .content:nth-child(7),
 .content:nth-child(8) {
-  background-color: yellow;
+  background-color: #ffd700;
 }
 
 .content:nth-child(3n) {
